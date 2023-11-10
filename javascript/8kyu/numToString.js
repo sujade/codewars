@@ -1,3 +1,3 @@
-function numberToString(num) {
+function numToString(num) {
     return num.toString()
 }
