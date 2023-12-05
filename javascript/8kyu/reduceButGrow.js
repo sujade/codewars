@@ -1,3 +1,3 @@
-function grow(x){
-    return x.reduce((sta, val) => sta * val)
+function grow(x) {
+    return x.reduce((a, b) => a * b)
 }
